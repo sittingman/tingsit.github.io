@@ -14,3 +14,11 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-minimal
+
+title: Data Science Work
+tagline: Include projects from Springboard Bootcamp
+author:
+        name: Ting Sit
+        email: sitkevin@gmail.com
+        github: sittingman
+        linkedin: 
