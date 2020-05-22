@@ -15,10 +15,7 @@ include:
 
 theme: jekyll-theme-minimal
 
-title: Data Science Work
-tagline: Include projects from Springboard Bootcamp
-author:
-        name: Ting Sit
-        email: sitkevin@gmail.com
-        github: sittingman
-        linkedin: 
+production_url : https://github.com/sittingman/sittingman.github.io
+BASE_PATH : https://github.com/sittingman/sittingman.github.io
+
+markdown : kramdown
