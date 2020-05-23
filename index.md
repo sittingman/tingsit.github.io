@@ -16,6 +16,8 @@ This is the moment when the concept of machine learning being introduced to me, 
    - Python, SQL, DataBrick, Excel(include, Power Query + Power Desktop + ODBC), Tableau
    
 ### Projects
-   [Lending Club Repayment](https://github.com/sittingman/lending_repayment)
-   
+   **Lending Club Repayment**
+   - Objective: Predict the likelihood of paid off for loans based on information provided by borrowers at the point of application. The model should be able to screen out high risk loan requests and not rejecting good loans request by mistake. 
+   - The metric we use for evaluating models will be F1 score. In this study, target 0 = default, target 1 = paid off.
+   - Model applied : Logistics Regression, Random Forecast.
    [<img src="https://github.com/sittingman/sittingman.github.io/blob/master/images/lending.png" />](https://github.com/sittingman/lending_repayment)
