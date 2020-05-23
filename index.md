@@ -13,3 +13,5 @@ This is the moment when the concept of machine learning being introduced to me, 
    - Supply Chain/ Inventory Planning (3.5 years)
    - Finance/Accounting (5 years)
 
+### Technical Skills
+   - Python, SQL, DataBrick, Excel(include, Power Query + Power Desktop + ODBC), Tableau
