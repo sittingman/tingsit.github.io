@@ -1,23 +1,11 @@
-title:              "Ting's Blog
-# email:              your-email@example.com
-description:        Something about me and Data Science
-author:             Ting Sit
-baseurl:            "/sittingman.github.io"
-url:                "https://sittingman.github.io/"
+theme: jekyll-theme-leap-day
 
-# Social Profiles
-# twitter_username:   SBootstrap
-github_username:    sittingman
-# facebook_username:  StartBootstrap
-linkedin_username: sittingman1
 
-# Add your google-analytics ID here to activate google analytics
+title: "Ting's Data Science Blog"
+description: A colletion of data science work
 
-# Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+show_downloads: true
+
+About Me: "I am a very happy persione"
+github: https://github.com/sittingman
+linkedin: https://www.linkedin.com/in/sittingman1/
