@@ -1,49 +1,14 @@
-# plugins:
-#   - jekyll-relative-links
-# relative_links:
-#   enabled: true
-#   collections: true
-# include:
-#   - CONTRIBUTING.md
-#   - LICENSE.md
-#   - COPYING.md
-#   - CODE_OF_CONDUCT.md
-#   - CONTRIBUTING.md
-#   - ISSUE_TEMPLATE.md
-#   - PULL_REQUEST_TEMPLATE.md
-#   - INDEX.md
-
 theme: jekyll-theme-leap-day
 
-production_url : https://github.com/sittingman/sittingman.github.io
-BASE_PATH : https://github.com/sittingman/sittingman.github.io
 
-markdown : kramdown
+title: Ting Data Science Blog
+description: A colletion of data science work
 
+show_downloads: true
 
-title: My website
-
-# Short description of your site
-description: A virtual proof that I'm awesome
-
-# Your name to show in the footer
-author: Some Person
-
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "I am a very happy persione"
-#   Resources:
-#     - Beautiful Jekyll: "https://beautifuljekyll.com"
-#     - Learn markdown: "https://www.markdowntutorial.com/"
-# #   Author's home: "https://deanattali.com"
-  
-  social-network-links:
-  email: "sitkevin@gmail.com"
-#   facebook: deanattali
-  github: https://github.com/sittingman
-  linkedin: https://www.linkedin.com/in/sittingman1/
+About Me: "I am a very happy persione"
+github: https://github.com/sittingman
+linkedin: https://www.linkedin.com/in/sittingman1/
  
  
-share-links-active:
-  linkedin: true
+linkedin: true
