@@ -16,5 +16,6 @@ This is the moment when the concept of machine learning being introduced to me, 
    - Python, SQL, DataBrick, Excel(include, Power Query + Power Desktop + ODBC), Tableau
    
 ### Projects
-   Lending Club Repayment[https://github.com/sittingman/lending_repayment]<img src="./images/lending.pnd" />
+   Lending Club Repayment[https://github.com/sittingman/lending_repayment]
+   <img src="../images/lending.png" />
    
