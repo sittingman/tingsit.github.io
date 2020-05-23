@@ -18,5 +18,4 @@ This is the moment when the concept of machine learning being introduced to me, 
 ### Projects
    [Lending Club Repayment](https://github.com/sittingman/lending_repayment)
    
-   <img src="https://github.com/sittingman/sittingman.github.io/blob/master/images/lending.png" />
-   
+   [<img src="https://github.com/sittingman/sittingman.github.io/blob/master/images/lending.png" />](https://github.com/sittingman/lending_repayment)
