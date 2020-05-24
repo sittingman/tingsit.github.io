@@ -4,9 +4,9 @@ Since I started as a finance/accounting professional, I always look for projects
 This is the moment when the concept of machine learning being introduced to me, which allows me to use programming languages to solve multivariable problems, leveraging proven algorithms to simulate results. I see this as the Swiss Army knife of hacking problems in almost any business problem that I am facing every day. I decided, at that point, to commit to this field as my long term career path.
     
 ## Technical Skills
-   - Python, SQL, DataBrick, Excel(include, Power Query + Power Desktop + ODBC), Tableau
+   - Python, SQL, DataBrick, Hadoop, Excel(include Power Query, Power Desktop),ODBC, Tableau, PowerShell
 
-## Functional Experience
+## Functional Experience ([Resume])
    - Data Science (2 years)
    - Sales Planning (2.5 years)
    - Supply Chain/ Inventory Planning (4 years)
