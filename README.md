@@ -6,7 +6,7 @@ This is the moment when the concept of machine learning being introduced to me, 
 ## Technical Skills
    - Python, SQL, DataBrick, Hadoop, Excel(include Power Query, Power Desktop),ODBC, Tableau, PowerShell
 
-## Functional Experience ([Resume])
+## Functional Experience ([Resume](https://github.com/sittingman/sittingman.github.io/blob/master/images/Resume.pdf))
    - Data Science (2 years)
    - Sales Planning (2.5 years)
    - Supply Chain/ Inventory Planning (4 years)
