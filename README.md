@@ -36,5 +36,5 @@ This is the moment when the concept of machine learning being introduced to me, 
    - Big focus on continue education, pursuing two micromaster degrees (Supply Chain and Development Policy/Economic), practicing Spanish and Japanese on the side
     
     
-    <br><img src="./images/myself.jpg" />
+        <br><img src="./images/myself.jpg" />
 
