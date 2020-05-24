@@ -1,4 +1,4 @@
-<img src="./images/data_science.png" />
+<img src="./images/data_science.PNG" />
 <br>
 ## Why Data Science?
 Since I started as a finance/accounting professional, I always look for projects which allow me to identify “efficiency”, be it process improvement that saves labor hours, or bundling purchases to save money. I like finding the “optimal” solution for problems. After 5 years in the field, I transitioned into supply chain/inventory planning, which presents limitless opportunities on finding efficiencies. Soon enough I hit the bottleneck on tools that I need to solve those complex problems.

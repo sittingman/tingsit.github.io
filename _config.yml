@@ -2,7 +2,7 @@ theme: jekyll-theme-leap-day
 
 
 title: "Ting's Data Science Blog"
-description: "A colletion of data science work"<img src="./images/lending.png" />
+description: "A colletion of data science work"
 
 show_downloads: false
 
