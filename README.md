@@ -14,17 +14,17 @@ This is the moment when the concept of machine learning being introduced to me, 
    - Finance/Accounting (5 years)
    
 ## Projects
-   [###Lending Club Repayment<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
+   [**Lending Club Repayment**<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
    - **Objective**: Predict the likelihood of paid off for loans based on information provided by borrowers at the point of application. The model should be able to screen out high risk loan requests and not rejecting good loans request by mistake. 
    - The metric used for evaluating models will be F1 score. In this study, target 0 = default, target 1 = paid off.
    - Model applied : Logistics Regression, Random Forecast.
 
-   [###Sales Forecast<br><img src="./images/sls_fcst.jpg" />](https://github.com/sittingman/sales_forecast)
+   [**Sales Forecast**<br><img src="./images/sls_fcst.jpg" />](https://github.com/sittingman/sales_forecast)
    - **Objective**: Given 34 months of sales history (Jan 2013 – Oct 2015) of a gaming retailer by items and by shops, predict sales for Nov 2015 (period 35)
    - The metric used for evaluating models will be rmse.
    - Models applied: ARMA, SARIMA, Holt Winter, Prophet, VARMAX, Xgboost, Random Forest, Rigde
        
-   [###Instacart Market Basket Analysis<br><img src="./images/shop_basket.png" />](https://github.com/sittingman/instacart_product_repurchase)
+   [**Instacart Market Basket Analysis**<br><img src="./images/shop_basket.png" />](https://github.com/sittingman/instacart_product_repurchase)
    - **Objective** : Predict products mixes that will be included in the next purchase order by users
    
 
