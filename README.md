@@ -29,7 +29,7 @@ This is the moment when the concept of machine learning being introduced to me, 
 
 ## About Me:
    - A native Hongkongers, fellow Bruin, in love with dance and foreign languages
-   - Favorite: book author (Peter Drucker), musician (Micheal Jackson), dance (Tap)
+   - Favorite: book author (Peter Drucker), musician (Michael Jackson), dance (Tap)
    - Big focus on continue education, pursuing two micromaster degrees (Supply Chain and Development Policy/Economic), practicing Spanish and Japanese on the side
 
 
