@@ -4,8 +4,8 @@ theme: jekyll-theme-leap-day
 title: "Ting's Data Science Blog"
 description: A colletion of data science work
 
-show_downloads: true
+show_downloads: false
 
-About Me: "I am a very happy persione"
-github: https://github.com/sittingman
-linkedin: https://www.linkedin.com/in/sittingman1/
+# About Me: "I am a very happy persione"
+# github: https://github.com/sittingman
+# linkedin: https://www.linkedin.com/in/sittingman1/
