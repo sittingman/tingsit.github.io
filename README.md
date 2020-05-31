@@ -19,7 +19,7 @@ This is the moment when the concept of machine learning being introduced to me, 
    - [Resume](https://resume.creddle.io/resume/2p53mcka0ik)
    
 ## Projects
-   [**Lending Club Repayment**<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
+   ###[Lending Club Repayment<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
    - **Objective**: Predict the likelihood of paid off for loans based on information provided by borrowers at the point of application. The model should be able to screen out high risk loan requests and not rejecting good loans request by mistake. 
    - The metric used for evaluating models will be F1 score. In this study, target 0 = default, target 1 = paid off.
    - Model applied : Logistics Regression, Random Forecast.
