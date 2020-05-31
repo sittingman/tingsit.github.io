@@ -2,18 +2,21 @@
 <br>
 
 ## Why Data Science?
-Since I started as a finance/accounting professional, I always look for projects which allow me to identify “efficiency”, be it process improvement that saves labor hours, or bundling purchases to save money. I like finding the “optimal” solution for problems. After 5 years in the field, I transitioned into supply chain/inventory planning, which presents limitless opportunities on finding efficiencies. Soon enough I hit the bottleneck on tools that I need to solve those complex problems.
+I always look for projects which allow me to identify “efficiency”, be it process improvement that saves labor hours, or forecasting spending decision to to save money. I enjoy seeking the “optimal” solution for problems. 
+<br>
+We are exposed to huge volume of data like never before, the opportunity of finding efficiency become limitless. Data Science is the wonderful tool to comb through layers of data to identify the "golden eggs" within. Thanks to user friendly programming languages like Python, I can combine my business experience and be self sufficient on targeting new problems that reqire 
 <br>
 This is the moment when the concept of machine learning being introduced to me, which allows me to use programming languages to solve multivariable problems, leveraging proven algorithms to simulate results. I see this as the Swiss Army knife of hacking problems in almost any business problem that I am facing every day. I decided, at that point, to commit to this field as my long term career path.
     
 ## Technical Skills
-   - Python, SQL, DataBrick, Hadoop, Excel(include Power Query, Power Desktop),ODBC, Tableau, PowerShell
+   - Python, SQL, Tableau, DataBrick, Hadoop, Excel(include Power Query, Power Desktop),ODBC, PowerShell
 
-## Functional Experience ([Resume](https://resume.creddle.io/resume/fs84gdmv2do))
+## Functional Experience
    - Data Science (2 years)
    - Sales Planning (2.5 years)
    - Supply Chain/ Inventory Planning (4 years)
    - Finance/Accounting (5 years)
+   - [Resume](https://resume.creddle.io/resume/2p53mcka0ik)
    
 ## Projects
    [**Lending Club Repayment**<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
