@@ -29,6 +29,9 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - **Objective** : Predict products mixes that will be included in the next purchase order by users
    - Model applied : Gradient Boosting, Lightgbm, Xgboost, Random Forest
 
+   [**Mini Project**<br><img src="./images/stay_home.jpg" />](https://github.com/sittingman/takehome_proj)
+   - Small project challenges
+
 ## About Me:
    - A native Hongkongers, fellow Bruin, in love with dance and foreign languages
    - Favorite: book author (Peter Drucker), musician (Michael Jackson), dance (Tap)
