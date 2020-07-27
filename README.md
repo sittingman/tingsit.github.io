@@ -10,8 +10,8 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - Python, SQL, Tableau, DataBrick, Hadoop, Excel(include Power Query, Power Desktop),ODBC, PowerShell
 
 ## Functional Experience
-   - Data Science (2 years)
-   - Sales Planning (2.5 years)
+   - Data Science (3 years)
+   - Sales Planning (3.5 years)
    - Supply Chain/ Inventory Planning (4 years)
    - Finance/Accounting (5 years)
    - [Resume](https://resume.creddle.io/resume/2p53mcka0ik)
