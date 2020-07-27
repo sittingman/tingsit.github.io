@@ -19,6 +19,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
 ## Projects
    [**Allstate Claims Severity**<br><img scr="./images/allstate.jpg" />](https://github.com/sittingman/allstate_loss)
     -**Objective** : Develop an automated method of predicting the cost, and hence severity, of claims. Model performance is evaluated on the mean absolute error (MAE) between the predicted loss and the actual loss.
+    
    [**Lending Club Repayment**<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
    - **Objective**: Predict the likelihood of paid off for loans based on information provided by borrowers at the point of application. The model should be able to screen out high risk loan requests and not rejecting good loans request by mistake. 
    - Model applied : Logistics Regression, Random Forecast.
