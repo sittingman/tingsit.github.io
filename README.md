@@ -17,7 +17,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - [Resume](https://resume.creddle.io/resume/2p53mcka0ik)
    
 ## Projects
-   [**Allstate Claims Severity**<br><img src="./images/allstate.jpg" />](https://github.com/sittingman/allstate_loss)
+   [**Allstate Claims Severity**<br><img src="./images/allstate.jpg" />](https://github.com/sittingman/allstate_insure)
    - **Objective**: Develop an automated method of predicting the cost, and hence severity, of claims. Model performance is evaluated on the mean absolute error (MAE) between the predicted loss and the actual loss.
    - Model applied : Lightgbm, Xgboost, and Catboost.
     
