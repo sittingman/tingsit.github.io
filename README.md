@@ -29,7 +29,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - **Objective**: Predict the likelihood of paid off for loans based on information provided by borrowers at the point of application. The model should be able to screen out high risk loan requests and not rejecting good loans request by mistake. 
    - Model applied : Logistics Regression, Random Forecast.
 
-   [**Sales Forecast**<br><img src="./images/sls_fcst.jpg" />](https://github.com/sittingman/sales_forecast)
+   [**Sales Forecast**<br><img src="./images/sls_fcst.png" />](https://github.com/sittingman/sales_forecast)
    - **Objective**: Given 34 months of sales history (Jan 2013 – Oct 2015) of a gaming retailer by items and by shops, predict sales for Nov 2015 (period 35)
    - Models applied: ARMA, SARIMA, Holt Winter, Prophet, VARMAX, Xgboost, Random Forest, Rigde
        
