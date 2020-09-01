@@ -17,11 +17,11 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - [Resume](https://resume.creddle.io/resume/2p53mcka0ik)
    
 ## Projects
-   [**Allstate Claims Severity**<br><img src="./images/allstate.jpg" />](https://github.com/sittingman/allstate_insure)
+   [**Allstate Claims Severity**<br><img src="./images/allstate.png" />](https://github.com/sittingman/allstate_insure)
    - **Objective**: Develop an automated method of predicting the cost, and hence severity, of claims. Model performance is evaluated on the mean absolute error (MAE) between the predicted loss and the actual loss.
    - Model applied : Lightgbm, Xgboost, and Catboost.
     
-   [**Airbnb New User Bookings**<br><img src="./images/airbnb.jpg" />](https://github.com/sittingman/airbnb_booking)
+   [**Airbnb New User Bookings**<br><img src="./images/airbnb.png" />](https://github.com/sittingman/airbnb_booking)
    - **Objective**: Predict in which country a new user will make his or her first booking Model performance is NDCG (Normalized discounted cumulative gain) at k = 5. In other words, making a maximum of 5 predictions on the country of the first booking at the used id level.
    - Model applied : Random Forest, Extra Trees, Lightgbm, and Keras Deep Learning.
    
