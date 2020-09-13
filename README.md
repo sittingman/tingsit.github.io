@@ -19,15 +19,15 @@ We are exposed to a massive volume of data like never before; the opportunity of
 ## Projects
    [**Allstate Claims Severity**<br><img src="./images/allstate.png" />](https://github.com/sittingman/allstate_insure)
    - **Objective**: Develop an automated method of predicting the cost, and hence severity, of claims. Model performance is evaluated on the mean absolute error (MAE) between the predicted loss and the actual loss.
-   - Model applied : Lightgbm, Xgboost, and Catboost.
+   - Models applied : Lightgbm, Xgboost, and Catboost.
     
    [**Airbnb New User Bookings**<br><img src="./images/airbnb.png" />](https://github.com/sittingman/airbnb_booking)
    - **Objective**: Predict in which country a new user will make his or her first booking Model performance is NDCG (Normalized discounted cumulative gain) at k = 5. In other words, making a maximum of 5 predictions on the country of the first booking at the used id level.
-   - Model applied : Random Forest, Extra Trees, Lightgbm, and Keras Deep Learning.
+   - Models applied : Random Forest, Extra Trees, Lightgbm, and Keras Deep Learning.
    
    [**Lending Club Repayment**<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
    - **Objective**: Predict the likelihood of paid off for loans based on information provided by borrowers at the point of application. The model should be able to screen out high risk loan requests and not rejecting good loans request by mistake. 
-   - Model applied : Logistics Regression, Random Forecast.
+   - Models applied : Logistics Regression, Random Forecast.
 
    [**Sales Forecast**<br><img src="./images/sls_fcst.png" />](https://github.com/sittingman/sales_forecast)
    - **Objective**: Given 34 months of sales history (Jan 2013 – Oct 2015) of a gaming retailer by items and by shops, predict sales for Nov 2015 (period 35)
@@ -35,7 +35,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
        
    [**Instacart Market Basket Analysis**<br><img src="./images/shop_basket.png" />](https://github.com/sittingman/instacart_product_repurchase)
    - **Objective** : Predict products mixes that will be included in the next purchase order by users
-   - Model applied : Gradient Boosting, Lightgbm, Xgboost, Random Forest
+   - Models applied : Gradient Boosting, Lightgbm, Xgboost, Random Forest
 
    [**Mini Projects**<br><img src="./images/stay_home.jpg" />](https://github.com/sittingman/takehome_proj)
    - Small project challenges
