@@ -21,8 +21,12 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - **Objective**: Develop an automated method of predicting the cost, and hence severity, of claims. Model performance is evaluated on the mean absolute error (MAE) between the predicted loss and the actual loss.
    - Models applied : Lightgbm, Xgboost, and Catboost.
     
+   [**Crowdflower Search Results Relevance**<br><img src="./images/crowdflower.png" />](https://github.com/sittingman/crowdflower)
+   - **Objective**: Create an open-source model that can be used to measure the relevance of search results. Model performance is evaluated on quadratic weighted kappa, which measures the agreement between two ratings - scores assigned by the human rater and the predicted scores.
+   - Models applied : Logistics Regression, Support Vector Classification, Random Forest, Extra Trees, XGBoost. 
+   
    [**Airbnb New User Bookings**<br><img src="./images/airbnb.png" />](https://github.com/sittingman/airbnb_booking)
-   - **Objective**: Predict in which country a new user will make his or her first booking Model performance is NDCG (Normalized discounted cumulative gain) at k = 5. In other words, making a maximum of 5 predictions on the country of the first booking at the used id level.
+   - **Objective**: Predict in which country a new user will make his or her first booking. Model performance is NDCG (Normalized discounted cumulative gain) at k = 5. In other words, making a maximum of 5 predictions on the country of the first booking at the used id level.
    - Models applied : Random Forest, Extra Trees, Lightgbm, and Keras Deep Learning.
    
    [**Lending Club Repayment**<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
