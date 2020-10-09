@@ -7,7 +7,7 @@ I always look for projects which allow me to identify “efficiency,” be it pr
 We are exposed to a massive volume of data like never before; the opportunity of finding efficiency becomes limitless. Data Science is an excellent tool to comb through layers of data to identify the “golden eggs” within. Thanks to user-friendly programming languages like Python, I can combine my business experience and be self-sufficient in tackling problems with Big Data.
     
 ## Technical Skills
-   - Python, SQL, Tableau, DataBrick, Hadoop, Excel(include Power Query, Power Desktop),ODBC, PowerShell
+   - Python, SQL, Tableau, DataBrick, Hadoop, Excel(include Power Query, Power Desktop), ODBC, PowerShell
 
 ## Functional Experience
    - Data Science (3 years)
@@ -23,7 +23,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
     
    [**Crowdflower Search Results Relevance**<br><img src="./images/crowdflower.png" />](https://github.com/sittingman/crowdflower)
    - **Objective**: Create an open-source model that can be used to measure the relevance of search results. Model performance is evaluated on quadratic weighted kappa, which measures the agreement between two ratings - scores assigned by the human rater and the predicted scores.
-   - Models applied : Logistics Regression, Support Vector Classification, Random Forest, Extra Trees, XGBoost. 
+   - Models applied : Logistic Regression, Support Vector Classification, Random Forest, Extra Trees, XGBoost. 
    
    [**Airbnb New User Bookings**<br><img src="./images/airbnb.png" />](https://github.com/sittingman/airbnb_booking)
    - **Objective**: Predict in which country a new user will make his or her first booking. Model performance is NDCG (Normalized discounted cumulative gain) at k = 5. In other words, making a maximum of 5 predictions on the country of the first booking at the used id level.
@@ -31,7 +31,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
    
    [**Lending Club Repayment**<br><img src="./images/lending.png" />](https://github.com/sittingman/lending_repayment)
    - **Objective**: Predict the likelihood of paid off for loans based on information provided by borrowers at the point of application. The model should be able to screen out high risk loan requests and not rejecting good loans request by mistake. 
-   - Models applied : Logistics Regression, Random Forecast.
+   - Models applied : Logistic Regression, Random Forecast.
 
    [**Sales Forecast**<br><img src="./images/sls_fcst.png" />](https://github.com/sittingman/sales_forecast)
    - **Objective**: Given 34 months of sales history (Jan 2013 – Oct 2015) of a gaming retailer by items and by shops, predict sales for Nov 2015 (period 35)
