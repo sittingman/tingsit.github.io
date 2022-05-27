@@ -45,7 +45,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - Small project challenges
 
 ## About Me:
-   - A native Hongkongers, fellow Bruin, in love with dance and foreign languages (Languages: fluent in English, Mandarin, Cantonese, conversant in Spanish and Japanese
+   - A native Hongkongers, fellow Bruin, in love with dance and foreign languages (fluent in English, Mandarin, Cantonese, conversant in Spanish and Japanese)
    - Favorite: book author (Peter Drucker), musician (Michael Jackson), dance (Tap)
    - Big focus on continue education, pursuing two micromaster degrees (Supply Chain and Development Policy/Economic), practicing Spanish and Japanese on the side
     
