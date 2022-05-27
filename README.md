@@ -11,10 +11,10 @@ We are exposed to a massive volume of data like never before; the opportunity of
 
 ## Functional Experience
    - Data Science (3 years)
-   - Sales Planning (3.5 years)
-   - Supply Chain/ Inventory Planning (4 years)
+   - Sales Planning (5 years)
+   - Supply Chain/ Inventory Planning (6 years)
    - Finance/Accounting (5 years)
-   - [Resume](https://resume.creddle.io/resume/2p53mcka0ik)
+   - [Resume](https://resume.creddle.io/resume/1tkhyjwr7gf)
    
 ## Projects
    [**Allstate Claims Severity**<br><img src="./images/allstate.png" />](https://github.com/sittingman/allstate_insure)
@@ -45,7 +45,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - Small project challenges
 
 ## About Me:
-   - A native Hongkongers, fellow Bruin, in love with dance and foreign languages
+   - A native Hongkongers, fellow Bruin, in love with dance and foreign languages (Languages: fluent in English, Mandarin, Cantonese, conversant in Spanish and Japanese
    - Favorite: book author (Peter Drucker), musician (Michael Jackson), dance (Tap)
    - Big focus on continue education, pursuing two micromaster degrees (Supply Chain and Development Policy/Economic), practicing Spanish and Japanese on the side
     
