@@ -17,7 +17,7 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - [Resume](https://resume.creddle.io/resume/1tkhyjwr7gf)
    
 ## Projects
-   [**Public Transit vs Rideshare in Austin Texas**<br><img src="./images/public_transit.png" />](https://github.com/tingmsit/public_transit)
+   [**Public Transit vs Rideshare in Austin, Texas**<br><img src="./images/public_transit.png" />](https://github.com/tingmsit/public_transit)
    - **Objective**: Understand if relationship exists among rideshares and public transportation services. Recommend possible next steps to public transit agency within Austin to drive public transit adoptions.
    - Models applied : Multiple Variables Linear Regression 
 
