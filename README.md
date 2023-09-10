@@ -51,7 +51,8 @@ We are exposed to a massive volume of data like never before; the opportunity of
 ## About Me:
    - A native Hongkongers, fellow Bruin, in love with dance and foreign languages (fluent in English, Mandarin, Cantonese, conversant in Spanish and Japanese)
    - Favorite: book author (Peter Drucker), musician (Michael Jackson), dance (Tap)
-   - Big focus on continue education, pursuing two micromaster degrees (Supply Chain and Development Policy/Economic), practicing Spanish and Japanese on the side
+   - Big focus on continue education, pursuing two Master degrees (Sustainability Studies, Analytics), obtained Micromasters degree in Supply Chain and Development Policy/Economic
+   - Enjoy living abroad, currently a digital nomad
     
     
         <br><img src="./images/myself.jpg" />
