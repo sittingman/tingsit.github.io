@@ -17,6 +17,10 @@ We are exposed to a massive volume of data like never before; the opportunity of
    - [Resume](https://resume.creddle.io/resume/1tkhyjwr7gf)
    
 ## Projects
+   [Public Transit vs Rideshare in Austin, Texas]<br><img src="./images/public_transit.png" />]
+   - **Objective**: Understand if relationship exists among rideshares and public transportation services. Recommend possible next steps to public transit agency within Austin to drive public transit adoptions.
+   - Model applied: Multiple variables Linear Regression 
+
    [**Allstate Claims Severity**<br><img src="./images/allstate.png" />](https://github.com/sittingman/allstate_insure)
    - **Objective**: Develop an automated method of predicting the cost, and hence severity, of claims. Model performance is evaluated on the mean absolute error (MAE) between the predicted loss and the actual loss.
    - Models applied : Lightgbm, Xgboost, and Catboost.
